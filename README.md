@@ -26,7 +26,7 @@ This project represents a complete **End-to-End Data Engineering** solution tail
 * **Visuals**: Leveraged **Plotly Express** for dynamic scatter plots (MW vs LogP) and bar charts.
 * **Interactive UI**: Users can search for specific compounds and filter the entire dashboard view in real-time via sidebar controls.
  ### 📊 Dashboard Overview
- <img width="1920" height="1039" alt="dashboard_preview2 png" src="https://github.com/user-attachments/assets/c08ef90b-feab-423b-be28-8fe770956d53" />
+ <img width="1920" height="1039" alt="dashboard_preview2.png.png" src="https://github.com/user-attachments/assets/c08ef90b-feab-423b-be28-8fe770956d53" />
  
 ---
 
